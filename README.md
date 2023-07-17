@@ -1,4 +1,4 @@
-# FreeCodeCamp Solution Coded By: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
+# FreeCodeCamp Solution | Coded By: [![Instagram](https://img.shields.io/badge/Instagram-Jefferson-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
 
 ## Basic Javascript
 
