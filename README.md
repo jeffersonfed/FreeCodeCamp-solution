@@ -1,6 +1,5 @@
 # FreeCodeCamp Solution
 
-# ![]JavaScript(./Basic Javascript/)
 ## Basic Javascript
 
 JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers.
@@ -9,3 +8,5 @@ In this course, you'll learn fundamental programming concepts in JavaScript. You
 
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+## Responsive WEB Design
