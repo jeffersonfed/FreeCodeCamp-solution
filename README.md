@@ -6,7 +6,6 @@ JavaScript is a scripting language you can use to make web pages interactive. It
 
 In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.
 
-
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-
+***
 ## Responsive WEB Design
