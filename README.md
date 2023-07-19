@@ -1,7 +1,8 @@
-# FreeCodeCamp Solution | Coded By: 
+# FreeCodeCamp Solution | Created By: 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
 [![Instagram](https://img.shields.io/badge/Instagram-ritchmi.shl-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
+
 
 ## Basic Javascript
 
