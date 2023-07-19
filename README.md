@@ -2,9 +2,9 @@
 <p id="top"></p>
 
 The problem was solved by: 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
-[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?&style=plastic&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 
 ## Basic Javascript
