@@ -17,4 +17,5 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
   Coming Soon for the Other solution <br>
   Check out my Activity 
 </h2>
+
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
