@@ -1,5 +1,5 @@
 # FreeCodeCamp Solution | Coded By: 
-[![Instagram](https://img.shields.io/badge/Instagram-Jefferson-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
+[![Instagram](https://img.shields.io/badge/Instagram-ritchmi.shl-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) 
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 
