@@ -19,6 +19,6 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
   
   [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
 <br><br>
-[![Github](https://img.shields.io/badge/Github%20Profile-black?style=for-the-badge&logo=github&logoColor=white)](/../../../../jeffersonfed/jeffersonfed/README.md)
+[![Github](https://img.shields.io/badge/Github%20Profile-black?style=for-the-badge&logo=github&logoColor=white)](/../../../../jeffersonfed/README.md)
 
 </h2>
