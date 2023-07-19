@@ -1,5 +1,5 @@
 # FreeCodeCamp Solution 
-<h2 id="top"></h2>
+<p id="top"></p>
 
 The problem was solved by: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
