@@ -1,0 +1,20 @@
+/*
+add a bark property to ourDog:
+
+ourDog.bark = "bow-wow";
+        or
+ourDog["bark"] = "bow-wow";
+
+when we evaluate ourDog.bark, we'll get his bark, bow-wow.
+const ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+
+ourDog.bark = "bow-wow";
+*/
+//Question :
+//Add a bark property to myDog and set it to a dog sound, such as "woof". 
+//You may use either dot or bracket notation.
