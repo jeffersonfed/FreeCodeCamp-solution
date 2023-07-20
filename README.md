@@ -23,7 +23,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 ```
 
 
-### Then to run
+### To run it, type
 ```javascript
   node app.js
 ```
