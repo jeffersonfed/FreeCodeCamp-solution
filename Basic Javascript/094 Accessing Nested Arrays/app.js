@@ -28,5 +28,25 @@ ourPets[1].names[0];
 
 ourPets[0].names[1] would be the string Fluffy, 
 and ourPets[1].names[0] would be the string Spot.
-
 */
+
+const myPlants = [
+    {
+      type: "flowers",
+      list: [
+        "rose",
+        "tulip",
+        "dandelion"
+      ]
+    },
+    {
+      type: "trees",
+      list: [
+        "fir",
+        "pine",
+        "birch"
+      ]
+    }
+  ];
+  
+  const secondTree = myPlants[1].list[1];
