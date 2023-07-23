@@ -4,7 +4,7 @@
   
 The problem was solved by: <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl) #Kurumi
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?&style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
 
 </h2>
