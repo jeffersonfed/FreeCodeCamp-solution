@@ -1,5 +1,5 @@
 /*For loops don't have to iterate one at a time. 
-        By changing our final-expression, we can count by even numbers. 
+        By changing our "final-expression", we can count by even numbers. 
     
         start at i = 0 and loop while i < 10. We'll increment i by 2 each loop with i += 2.
 
