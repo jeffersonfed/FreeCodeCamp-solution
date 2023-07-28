@@ -1,5 +1,6 @@
 # FreeCodeCamp Solution 
 
+[![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](https://github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution?&color=blue)](https://badges.pufler.dev)
 
 <h2 id="top"; align="center">
