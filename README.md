@@ -1,9 +1,9 @@
 # FreeCodeCamp Solution 
 
+<h2 id="top"; align="center">
+
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](https://github.com/jeffersonfed)
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution?&color=blue)](https://github.com/jeffersonfed)
-
-<h2 id="top"; align="center">
   
 The problem was solved by: Jefferson<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
