@@ -1,5 +1,7 @@
 # FreeCodeCamp Solution 
 
+[![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution)](https://badges.pufler.dev)
+
 <h2 id="top"; align="center">
   
 The problem was solved by: Jefferson<br>
