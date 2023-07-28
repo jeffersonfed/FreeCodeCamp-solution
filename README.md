@@ -3,7 +3,9 @@
 <h2 id="top"; align="center">
 
 [![](https://komarev.com/ghpvc/?username=jeffersonfed&label=Profile%20Visits&color=blue&style=flat)](https://github.com/jeffersonfed)
-[![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution?&color=blue)](https://github.com/jeffersonfed)
+[![Commits Badge](https://badges.pufler.dev/commits/all/jeffersonfed?&label=Overall%20Commits&color=blue&icon=5&pretty=false&style=flat)](#top)
+[![Gist](https://badges.pufler.dev/gists/jeffersonfed?&label=Gist&color=blue&icon=5&pretty=false&style=flat)](https://gist.github.com/jeffersonfed)
+[![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat)](#top)
   
 The problem was solved by: Jefferson<br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
