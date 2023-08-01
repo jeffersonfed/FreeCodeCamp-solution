@@ -8,7 +8,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/jeffersonfed/FreeCodeCamp-Solution?&label=Last%20Updated&color=blue&icon=5&pretty=false&style=flat)](#top)
   
 The problem was solved by: Jefferson<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritch-johan-jefferson-613175224/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffersonfed)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ritchmi.shl)
 [![Keybase](https://img.shields.io/badge/Keybase-black?style=flat&logo=keybase&logoColor=orange)](https://keybase.io/jeffersonfed)
 [![BuyMeACoffee](https://img.shields.io/badge/Support%20Me-ffdd00?&style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersonfed)
