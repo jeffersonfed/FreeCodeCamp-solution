@@ -46,8 +46,9 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es
 <br><br>
 ***
 
+
 <h2 align="center">
-  Coming Soon for the Other solution <br>
+  Coming Soon for the Other solution, Currently, I am learning about JavaScript, React, and Next.js on Udemy. <br>
   Check out my Activity
   
   [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Jefferson14)
